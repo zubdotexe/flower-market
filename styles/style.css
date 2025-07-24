@@ -23,3 +23,16 @@
 .black-bg-op-sixty {
   background-color: rgba(0, 0, 0, 0.6);
 }
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.badge-rotator {
+  animation: rotate 6s linear infinite;
+}
