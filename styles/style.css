@@ -36,3 +36,7 @@
 .badge-rotator {
   animation: rotate 6s linear infinite;
 }
+
+.badge-rotator:hover {
+  animation-play-state: paused;
+}
