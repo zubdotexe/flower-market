@@ -19,3 +19,7 @@
 .black-op-fifty {
     color: rgba(0, 0, 0, 0.5);
 }
+
+.black-bg-op-sixty {
+  background-color: rgba(0, 0, 0, 0.6);
+}
